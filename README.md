@@ -1,4 +1,4 @@
-[The code will be uploaded after October.]
+
 
 ## TODO
 <img src="https://github.com/iii17-grace/iOS_Route_Suggestion/blob/master/App%20version%201.0.png"  alt="App version 1.0.gif"><br/>
